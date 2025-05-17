@@ -1,11 +1,11 @@
 ---
 aliases: ["The Mirror", "Advisor of Vigil", "Caelen Vorr"]
 tags: [Velarian Watch, civic-role, high-command]
-title: The Mirror – Caelen Vorr
+title: The Mirror
 emoji: 🛰️
 ---
 
-# 🛰️ The Mirror – *Caelen Vorr*
+# 🛰️ The Mirror
 
 > *“The blade has an edge, but the mirror sees where it will fall.”*
 
