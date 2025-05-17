@@ -39,8 +39,7 @@ velarian-watch-chronicle/
 ├── Velarian Watch Profile.md  # High-level empire overview
 └── README.md
 ```
-
-## Disclaimer
+## ⚠️ Disclaimer
 
 This project is a fan-made narrative inspired by *Stellaris*, a game developed by Paradox Interactive.  
 It is not affiliated with, endorsed by, or associated with Paradox Interactive in any way.  
