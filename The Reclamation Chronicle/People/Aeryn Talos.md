@@ -36,7 +36,7 @@ archive: The Reclamation Chronicle
 
 ## 🧠 Skill Profile
 - **Class:** Commander
-- **Ruler Trait:** Fleet Organizer
+- **Ruler Trait:** Fleet Organizer, Champion of the People
 - **Known Strengths:**
   - Unyielding battlefield focus
   - Mastery of orbital operations and fleet composition
