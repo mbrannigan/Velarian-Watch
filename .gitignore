@@ -1,0 +1,34 @@
+# Obsidian workspace settings (safe to ignore unless collaborating on vault structure)
+.obsidian/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OS/Editor backups
+*.bak
+*.tmp
+*.swp
+~$*
+
+# Zip archives
+*.zip
+
+# Logs
+*.log
+
+# Node or Python envs (just in case)
+node_modules/
+venv/
+__pycache__/
+
+# Scripts or utility folders (optional, remove if you want to track yours)
+# scripts/
+
+# Sync conflicts
+sync-conflict-*
+
+# Optional: ignore temporary analysis or render folders
+/output/
+/cache/
